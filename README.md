@@ -18,7 +18,7 @@ This repository contains a bash script to safely upgrade Jenkins to the latest v
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/jenkins-upgrade-script.git
+    git clone https://github.com/NashTech-Labs/upgrade_jenkins.git
     cd jenkins-upgrade-script
     ```
 
